@@ -3,11 +3,42 @@
 	
 }
 
+p {
+	text-align: right;
+	margin-right: 100px;
+	color: black;
+	font-family: "Times New Roman", Times, serif;
+}
 
+ul {
+  list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+th {
+	text-align: left;
+	padding-left: 50px;
+	padding-bottom: 100px;
+	color: black;
+}
+
+img {
+	padding-left: 20px;
+	padding-top: 20px;
+	height: 110px;
+	width: 100px;
+}
+
+li {
+	text-align: left;
+}
 
 #center{
-	background-color: gray;
-	height: 1000px;
+	background-color:  #bfbfbf;
+	height: 1300px;
 	width: 65%;
 	margin-right: auto;
 	margin-left: auto;
@@ -16,6 +47,9 @@
 	color: white;
 }
 
+button {
+	margin-top: 20px;
+}
 
 #futer{
 	text-align: center;

@@ -1,0 +1,33 @@
+
+#header{
+	
+}
+
+
+
+#center{
+	background-color: gray;
+	height: 1000px;
+	width: 65%;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 10px;
+	text-align: center;
+	color: white;
+}
+
+
+#futer{
+	text-align: center;
+	color: white;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+} 

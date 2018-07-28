@@ -4,11 +4,11 @@
 }
 
 p {
-	text-align: right;
-	margin-right: 100px;
+	text-align: left;
 	color: black;
 	font-family: "Times New Roman", Times, serif;
 }
+
 
 ul {
   list-style-type: none;
@@ -21,8 +21,32 @@ a {
 th {
 	text-align: left;
 	padding-left: 50px;
-	padding-bottom: 100px;
+	padding-bottom: 80px;
 	color: black;
+}
+
+#sumHeight{
+	padding-bottom: 150px;
+}
+
+#skilHeight{
+	padding-bottom: 260px;
+}
+
+#eduHeight{
+	padding-bottom: 160px;
+}
+
+#workHeight{
+	padding-bottom: 180px;
+}
+
+#certHeight{
+	padding-bottom: 180px;
+}
+
+#langHeight{
+	padding-bottom: 150px;
 }
 
 img {
@@ -34,11 +58,50 @@ img {
 
 li {
 	text-align: left;
+	
+}
+
+#sumList {
+	text-align: left;
+	color: black;
+	margin-left: 100px;
+	padding-bottom: 60px;
+}
+
+#skList {
+	text-align: left;
+	color: black;
+	margin-left: 130px;
+}
+
+#eduList {
+	text-align: left;
+	color: black;
+	margin-left: 100px;
+}
+
+#workList {
+	text-align: left;
+	color: black;
+	margin-left: 20px;
+}
+
+#certList {
+	text-align: left;
+	color: black;
+	margin-left: -100px;
+}
+
+#othList {
+	text-align: left;
+	color: black;
+	margin-left: 70px;
+	padding-bottom: 60px;
 }
 
 #center{
 	background-color:  #bfbfbf;
-	height: 1300px;
+	height: 1750px;
 	width: 65%;
 	margin-right: auto;
 	margin-left: auto;
